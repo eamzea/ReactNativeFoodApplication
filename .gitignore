@@ -10,6 +10,7 @@ npm-debug.*
 web-build/
 web-report/
 .env
+yelp.js
 
 # macOS
 .DS_Store
