@@ -1,8 +1,6 @@
 # ReactNativeFoodApplication
 
-## Blog Post Application
-
-Second ReactNative Application using React Hooks like Context, Reducer and State.
+First ReactNative Application using React Hooks like Context, Reducer and State.
 
 In the project directory, you can run:
 
